@@ -1,4 +1,4 @@
-package com.wangyichao.bigdata.study;
+package com.wangyichao.bigdata.study.array;
 
 public class ArrayApp01 {
 
